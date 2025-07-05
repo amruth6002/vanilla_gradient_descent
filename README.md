@@ -5,3 +5,6 @@
     
 2.) stochostic gradient descent
     in each epoch it takes randomly a data point , and their is high probability that we may end up at global minima
+
+3.) momentum based gradient descent
+    similar to how a ball rolls down smoothly along a curve.
